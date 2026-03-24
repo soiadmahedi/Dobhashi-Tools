@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "banglaWord": "কেমন আছেন?",
+    "sylhetiNagri": "ꠜꠣꠟꠣ ꠀꠍꠂꠘ ꠘꠤ?",
+    "sylhetiRoman": "Bhala asoin ni?",
+    "category": "Greetings",
+    "exampleText": "ভাই, ভালা আছইন নি?"
+  },
+  {
+    "id": "2",
+    "banglaWord": "আমি ভালো আছি",
+    "sylhetiNagri": "ꠀꠝꠤ ꠜꠣꠟꠣ ꠀꠍꠤ",
+    "sylhetiRoman": "Ami bhala asi",
+    "category": "Greetings",
+    "exampleText": "জ্বি, আমি ভালা আছি।"
+  },
+  {
+    "id": "3",
+    "banglaWord": "কী অবস্থা?",
+    "sylhetiNagri": "ꠇꠤꠔꠣ ꠈꠛꠞ?",
+    "sylhetiRoman": "Kita khobor?",
+    "category": "Greetings",
+    "exampleText": "কিতা খবর তুমার?"
+  },
+  {
+    "id": "4",
+    "banglaWord": "কী করছ?",
+    "sylhetiNagri": "ꠇꠤꠔꠣ ꠇꠞꠞꠣꠄ?",
+    "sylhetiRoman": "Kita korray?",
+    "category": "Greetings",
+    "exampleText": "অখন কিতা কররায় তুমি?"
+  },
+  {
+    "id": "5",
+    "banglaWord": "ছেলে",
+    "sylhetiNagri": "ꠙꠥꠀ",
+    "sylhetiRoman": "Pua",
+    "category": "Relations",
+    "exampleText": "ইগু কার পুয়া?"
+  },
+  {
+    "id": "6",
+    "banglaWord": "মেয়ে",
+    "sylhetiNagri": "ꠙꠥꠞꠤ",
+    "sylhetiRoman": "Puri",
+    "category": "Relations",
+    "exampleText": "মাশাআল্লাহ, পুরি তো খুব সুন্দর।"
+  },
+  {
+    "id": "7",
+    "banglaWord": "ভাই",
+    "sylhetiNagri": "ꠜꠣꠁ",
+    "sylhetiRoman": "Bhai",
+    "category": "Relations",
+    "exampleText": "ভাইসাব কই গেছেন?"
+  },
+  {
+    "id": "8",
+    "banglaWord": "বোন",
+    "sylhetiNagri": "ꠛꠁꠘ",
+    "sylhetiRoman": "Boin",
+    "category": "Relations",
+    "exampleText": "বইন, তুমার নাম কিতা?"
+  },
+  {
+    "id": "9",
+    "banglaWord": "বাচ্চারা",
+    "sylhetiNagri": "ꠙꠥꠀꠁꠘꠔ",
+    "sylhetiRoman": "Puaint",
+    "category": "Relations",
+    "exampleText": "বাড়ির পুয়াইন্ত কই?"
+  },
+  {
+    "id": "10",
+    "banglaWord": "কী",
+    "sylhetiNagri": "ꠇꠤꠔꠣ",
+    "sylhetiRoman": "Kita",
+    "category": "Questions",
+    "exampleText": "ইতা কিতা খউরে ভাই?"
+  },
+  {
+    "id": "11",
+    "banglaWord": "কোথায়",
+    "sylhetiNagri": "ꠈꠁ / ꠇꠁ",
+    "sylhetiRoman": "Khoi / Koi",
+    "category": "Questions",
+    "exampleText": "তুমি খই গেলায়?"
+  },
+  {
+    "id": "12",
+    "banglaWord": "কীভাবে",
+    "sylhetiNagri": "ꠇꠤꠟꠣ / ꠇꠤꠟꠣꠈꠣꠘ",
+    "sylhetiRoman": "Kila / Kilakhan",
+    "category": "Questions",
+    "exampleText": "ইতা কিলা অইলো?"
+  },
+  {
+    "id": "13",
+    "banglaWord": "কেন",
+    "sylhetiNagri": "ꠇꠦꠘꠦ",
+    "sylhetiRoman": "Kene",
+    "category": "Questions",
+    "exampleText": "তুমি কেনে আইলায় না?"
+  },
+  {
+    "id": "14",
+    "banglaWord": "কখন",
+    "sylhetiNagri": "ꠈꠥꠘꠡꠝꠄ",
+    "sylhetiRoman": "Khunshomoy",
+    "category": "Questions",
+    "exampleText": "হে খুনসময় আইবো?"
+  },
+  {
+    "id": "15",
+    "banglaWord": "পানি",
+    "sylhetiNagri": "ꠚꠣꠘꠤ",
+    "sylhetiRoman": "Fani",
+    "category": "Food",
+    "exampleText": "এক গ্লাস ফানি দেও।"
+  },
+  {
+    "id": "16",
+    "banglaWord": "তরকারি",
+    "sylhetiNagri": "ꠡꠣꠟꠥꠘ",
+    "sylhetiRoman": "Salun",
+    "category": "Food",
+    "exampleText": "আইজকুর সালুন কিতা?"
+  },
+  {
+    "id": "17",
+    "banglaWord": "গরুর মাংস",
+    "sylhetiNagri": "ꠉꠞꠥꠞ ꠉꠥꠍ",
+    "sylhetiRoman": "Gorur Gus",
+    "category": "Food",
+    "exampleText": "আইজ গরুর গুছ রান্দা অইছে।"
+  },
+  {
+    "id": "18",
+    "banglaWord": "সকাল",
+    "sylhetiNagri": "ꠛꠤꠀꠘ",
+    "sylhetiRoman": "Bian",
+    "category": "Time",
+    "exampleText": "বিয়ানে জলদি উঠবায়।"
+  },
+  {
+    "id": "19",
+    "banglaWord": "আজ",
+    "sylhetiNagri": "ꠀꠁꠎ",
+    "sylhetiRoman": "Aiz",
+    "category": "Time",
+    "exampleText": "আইজ বেজায় গরম।"
+  },
+  {
+    "id": "20",
+    "banglaWord": "আগামীকাল",
+    "sylhetiNagri": "ꠇꠣꠁꠟ",
+    "sylhetiRoman": "Kail",
+    "category": "Time",
+    "exampleText": "কাইল আমি সিলেট যাইমু।"
+  },
+  {
+    "id": "21",
+    "banglaWord": "গতকাল",
+    "sylhetiNagri": "ꠉꠔꠇꠣꠁꠟ",
+    "sylhetiRoman": "Gotokail",
+    "category": "Time",
+    "exampleText": "গতকাইল তুমি কিতা করলায়?"
+  },
+  {
+    "id": "22",
+    "banglaWord": "এখন",
+    "sylhetiNagri": "ꠅꠈꠘ",
+    "sylhetiRoman": "Okhon",
+    "category": "Time",
+    "exampleText": "আমি অখন বাড়িত যাইমু।"
+  },
+  {
+    "id": "23",
+    "banglaWord": "বসা",
+    "sylhetiNagri": "ꠛꠃ",
+    "sylhetiRoman": "Bou / Bo",
+    "category": "Verbs",
+    "exampleText": "ইনো বও তুমি।"
+  },
+  {
+    "id": "24",
+    "banglaWord": "আসা",
+    "sylhetiNagri": "ꠀꠅ",
+    "sylhetiRoman": "Ao",
+    "category": "Verbs",
+    "exampleText": "জলদি আও।"
+  },
+  {
+    "id": "25",
+    "banglaWord": "কথা বলা",
+    "sylhetiNagri": "ꠝꠣꠔ",
+    "sylhetiRoman": "Mat",
+    "category": "Verbs",
+    "exampleText": "বেশি মাত মাতিও না।"
+  },
+  {
+    "id": "26",
+    "banglaWord": "ছোট",
+    "sylhetiNagri": "ꠢꠥꠞꠥ",
+    "sylhetiRoman": "Huru",
+    "category": "Adjectives",
+    "exampleText": "ইগু তো হুড়ো পুয়া।"
+  },
+  {
+    "id": "27",
+    "banglaWord": "বড়",
+    "sylhetiNagri": "ꠛꠠ",
+    "sylhetiRoman": "Boro",
+    "category": "Adjectives",
+    "exampleText": "ইতা অনেক বড়।"
+  },
+  {
+    "id": "28",
+    "banglaWord": "পাগল",
+    "sylhetiNagri": "ꠚꠣꠉꠟ",
+    "sylhetiRoman": "Fagol",
+    "category": "Adjectives",
+    "exampleText": "হে আস্তা ফাগল অইগেছে।"
+  },
+  {
+    "id": "29",
+    "banglaWord": "খারাপ",
+    "sylhetiNagri": "ꠛꠄꠣ",
+    "sylhetiRoman": "Boya",
+    "category": "Adjectives",
+    "exampleText": "ইতা খুব বয়া কাম।"
+  },
+  {
+    "id": "30",
+    "banglaWord": "অনেক",
+    "sylhetiNagri": "ꠛꠦꠎꠣꠘ",
+    "sylhetiRoman": "Bejan",
+    "category": "Adjectives",
+    "exampleText": "ইনো বেজান মানুশ।"
+  },
+  {
+    "id": "31",
+    "banglaWord": "সবাই",
+    "sylhetiNagri": "ꠢꠇꠟ",
+    "sylhetiRoman": "Hokol",
+    "category": "Pronouns",
+    "exampleText": "হকল আইছইন নি?"
+  },
+  {
+    "id": "32",
+    "banglaWord": "বাড়ি",
+    "sylhetiNagri": "ꠛꠣꠠꠤ",
+    "sylhetiRoman": "Bari",
+    "category": "Places",
+    "exampleText": "আমি বাড়িত যাইতাম।"
+  },
+  {
+    "id": "33",
+    "banglaWord": "এখানে",
+    "sylhetiNagri": "ꠁꠘꠧ",
+    "sylhetiRoman": "Ino",
+    "category": "Places",
+    "exampleText": "তুমি ইনো আইও।"
+  },
+  {
+    "id": "34",
+    "banglaWord": "সেখানে",
+    "sylhetiNagri": "ꠢꠤꠘꠧ",
+    "sylhetiRoman": "Hino",
+    "category": "Places",
+    "exampleText": "হিনো কিতা অয়?"
+  },
+  {
+    "id": "35",
+    "banglaWord": "রাস্তায়",
+    "sylhetiNagri": "ꠙꠕꠧ",
+    "sylhetiRoman": "Potho",
+    "category": "Places",
+    "exampleText": "আমি ফতো আছি, আওরা।"
+  },
+  {
+    "id": "36",
+    "banglaWord": "টাকা",
+    "sylhetiNagri": "ꠐꠦꠇꠣ",
+    "sylhetiRoman": "Teka",
+    "category": "Nouns",
+    "exampleText": "আমার কাছে কোনো টেকা নাই।"
+  },
+  {
+    "id": "37",
+    "banglaWord": "তাড়াতাড়ি",
+    "sylhetiNagri": "ꠎꠟꠖꠤ",
+    "sylhetiRoman": "Joldi",
+    "category": "Adverbs",
+    "exampleText": "জলদি আইও, দেরি অইযার।"
+  },
+  {
+    "id": "38",
+    "banglaWord": "দেরি",
+    "sylhetiNagri": "ꠖꠦꠞꠤ",
+    "sylhetiRoman": "Deri",
+    "category": "Adverbs",
+    "exampleText": "কেনে দেরি করলায়?"
+  },
+  {
+    "id": "39",
+    "banglaWord": "কষ্ট",
+    "sylhetiNagri": "ꠇꠡꠐ",
+    "sylhetiRoman": "Koshto",
+    "category": "Feelings",
+    "exampleText": "আমার বেজান কষ্ট অইছে।"
+  },
+  {
+    "id": "40",
+    "banglaWord": "ঘুমানো",
+    "sylhetiNagri": "ꠊꠥꠝꠣꠘꠤ",
+    "sylhetiRoman": "Ghumani",
+    "category": "Verbs",
+    "exampleText": "হে আরামছে ঘুমাইছে।"
+  }
+]
